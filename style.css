@@ -153,7 +153,7 @@ article a h2{
 .main__grid {
 	display: grid;
 	grid-template-areas:
-	"escudo escudo . ."
+	". escudo escudo ."
 	". titulo1 titulo1 ."
 	"imagen imagen imagen imagen"
 	". titulo2 titulo2 ."
